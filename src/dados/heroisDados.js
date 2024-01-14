@@ -106,7 +106,7 @@ const heroisDados = {
   Comerciante: {
     nome: "Comerciante",
     multiplicador: 1,
-    nivel: 1,
+    nivel: 0,
     tempo: 4000,
     tipo: "coleta",
     imagem: imgComerciante,
