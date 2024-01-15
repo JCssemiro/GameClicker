@@ -768,7 +768,7 @@ const melhoriasDados = {
                 tempo: 9/10,
             }
         },
-        animaisCarga2:{
+        animaiscarga2:{
             id:"animaiscarga2",
             nome: "Animais de Carga II",
             descricao: "Solicita ajuda de animais médios como cervos e lobos para carregar os espólios para a vila. Diminui o tempo de expedição em 30%",
@@ -789,7 +789,7 @@ const melhoriasDados = {
                 tempo: 7/10,
             }
         },
-        animaisCarga3:{
+        animaiscarga3:{
             id:"animaiscarga3",
             nome: "Animais de Carga III",
             descricao: "Solicita ajuda de animais pesados como ursos e alces para carregar espólios para a vila. Diminui o tempo de expedição em 50%",
