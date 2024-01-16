@@ -107,7 +107,7 @@ const heroisDados = {
     nome: "Comerciante",
     multiplicador: 1,
     nivel: 0,
-    tempo: 4000,
+    tempo: 3000,
     tipo: "coleta",
     imagem: imgComerciante,
     automatico: false,
