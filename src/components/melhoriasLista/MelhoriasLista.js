@@ -3,7 +3,7 @@ import MelhoriaIndividual from "../melhoriaIndividual/MelhoriaIndividual";
 
 const MelhoriasListaContainer = styled.div`
 width: 50%;
-height: 580px;
+height: calc(100% - 20px);
 padding: 10px;
 overflow-x: hidden;
 overflow-y: auto;

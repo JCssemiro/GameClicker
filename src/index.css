@@ -1,13 +1,16 @@
 *{
   font-family: 'Pixelify Sans';
 }
+html{
+  height: auto;
+}
 body {
   height: 100%;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: black;
-  overflow: hidden;
+  overflow: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

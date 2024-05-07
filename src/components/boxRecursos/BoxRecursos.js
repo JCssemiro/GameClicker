@@ -15,6 +15,21 @@ const BoxRecursosContainer = styled.div`
     `
     width: 25%;
     margin-left: 5px;
+    height: 100%;
+    overflow: auto;
+    &::-webkit-scrollbar {
+        background-color: transparent;
+      }
+    
+      &::-webkit-scrollbar{
+        border-radius: 3px;
+        width: 3px;
+      }
+    
+      &::-webkit-scrollbar-thumb {
+        background-color: #3b2610;
+        border-radius: 3px;
+      }
     `:`
     position: absolute;
     right: 0;

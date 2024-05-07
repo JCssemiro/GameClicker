@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const HeroisListaContainer = styled.div`
 width: 25%;
-height: 584px;
+height: calc(100% - 20px);
 border-right: 3px solid #703d08;
 padding: 8px;
 overflow-y: auto;

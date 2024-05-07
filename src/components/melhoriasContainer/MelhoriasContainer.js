@@ -7,7 +7,7 @@ const MelhoriaBoxContainer = styled.div`
 position: relative;
 top: 25px;
 width: 95%;
-height: 600px;
+height: 70%;
 background-color: #9e4f1e;
 border: 5px solid #3b2610;
 border-radius: 3px;
